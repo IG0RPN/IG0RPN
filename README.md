@@ -22,4 +22,4 @@
 ![Apple](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Uma pessoa extremamente curiosa pela area de tecnologia e constantemente procurando apreder mais. 
+Uma pessoa extremamente curiosa pela área de tecnologia e constantemente procurando apreder mais. 
